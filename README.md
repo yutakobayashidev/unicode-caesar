@@ -1,3 +1,3 @@
 # unicode-caesar
 
-unicode 表でシザー暗号をするだけのちょっとしたゲーム
+unicode 表でシーザー暗号をするだけのちょっとしたゲーム。Kuma

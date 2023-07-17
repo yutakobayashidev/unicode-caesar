@@ -115,7 +115,7 @@ const Game: React.FC = () => {
           fontSize={[25, 50]}
           fontWeight={"bold"}
         >
-          Unicodeシザー暗号ゲームへようこそ！
+          Unicodeシーザー暗号ゲームへようこそ！
         </Heading>
         <Text textAlign={"center"}>
           文字列をUnicode表から特定の数シフトし、元の文章を当てるシンプルなゲームです
